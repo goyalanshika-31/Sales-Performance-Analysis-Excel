@@ -35,3 +35,12 @@ Final Excel dashboard displaying KPIs, trends, and performance insights in a cle
 
 ![Dashboard](screenshots/Screenshot%20(142).png)
 
+## 📄 Analysis Report
+
+A detailed Exploratory Data Analysis (EDA) and business insight report is available here:
+
+🔗 **Analysis Report (PDF):**  
+https://docs.google.com/presentation/d/1qpAUPzdh7bODOx6gp-wazDGxGOnCbtRE/edit?usp=drive_link&ouid=108948269536603645658&rtpof=true&sd=true
+
+
+
