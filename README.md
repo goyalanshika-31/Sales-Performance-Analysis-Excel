@@ -42,5 +42,22 @@ A detailed Exploratory Data Analysis (EDA) and business insight report is availa
 🔗 **Analysis Report (PDF):**  
 https://docs.google.com/presentation/d/1qpAUPzdh7bODOx6gp-wazDGxGOnCbtRE/edit?usp=drive_link&ouid=108948269536603645658&rtpof=true&sd=true
 
+## 📈 Key Insights
+
+- Identified high-performing products and categories
+- Observed sales trends over time
+- Highlighted areas of improvement for underperforming segments
+- Enabled quick decision-making through KPI-driven visuals
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates strong hands-on skills in **Advanced Excel**, **EDA**, **business analysis**, and **dashboard reporting**.  
+It reflects an end-to-end analytical workflow from raw data to actionable insights.
+
+---
+
+📌 *This project is part of my Data Analyst portfolio.*
 
 
